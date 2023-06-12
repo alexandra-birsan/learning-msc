@@ -1,5 +1,4 @@
 package msc
-package msc
 
 class NewTypes {
 
