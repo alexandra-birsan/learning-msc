@@ -2,6 +2,7 @@ package msc
 
 // https://www.youtube.com/watch?v=vpL-JPHt9qw
 // https://blog.rockthejvm.com/givens-vs-implicits/
+// https://docs.scala-lang.org/scala3/book/ca-given-imports.html
 
 object Givens {
 
