@@ -1,6 +1,8 @@
 package msc
 
 // https://www.youtube.com/watch?v=8-b2AoctkiY&list=PLmtsMNDRU0BwsVUbhsH2HMqDMPNhQ0HPc&index=4
+// the equivalent in Scala 2 is NewType https://github.com/estatico/scala-newtype (oh, wow! Finally I see why I used it in my previous work project!)
+
 object OpaqueTypes {
 
   /*
